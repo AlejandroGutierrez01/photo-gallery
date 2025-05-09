@@ -1,4 +1,4 @@
-## 🖼️ Mostrar Fotos con Nombre de Archivo y Boton para ver Fotos Guardadas (en tab 3)
+## 🖼️ Mostrar Fotos con Nombre de Archivo y Ver Fotos guardadas (en tab 3)
 
 ### Descripción 
 Las fotos previamente guardadas ahora se muestran en el tab 3 mediante un boton. 
